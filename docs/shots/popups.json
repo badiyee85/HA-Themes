@@ -1,0 +1,40 @@
+{
+ "menu": [
+  {
+   "slot": "dropdown-menu-content",
+   "role": "menu",
+   "radius": "0px",
+   "bg": "rgb(242, 242, 242)",
+   "border": "1px solid rgb(204, 204, 204)",
+   "shadow": "none"
+  }
+ ],
+ "context": [
+  {
+   "slot": "context-menu-content",
+   "role": "menu",
+   "radius": "0px",
+   "bg": "rgb(242, 242, 242)",
+   "border": "1px solid rgb(204, 204, 204)",
+   "shadow": "none"
+  }
+ ],
+ "palette": [
+  {
+   "slot": null,
+   "role": "dialog",
+   "radius": "0px",
+   "bg": "rgb(240, 240, 240)",
+   "border": "1px solid rgb(130, 135, 144)",
+   "shadow": "none"
+  },
+  {
+   "slot": "command-list",
+   "role": "listbox",
+   "radius": "0px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px solid rgb(130, 135, 144)",
+   "shadow": "none"
+  }
+ ]
+}

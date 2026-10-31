@@ -1,0 +1,21 @@
+{
+ "before": {
+  "theme": "nous",
+  "css": 0,
+  "body": "color(srgb 0.996235 0.996235 0.996235)"
+ },
+ "after": {
+  "theme": "winforms",
+  "css": 15482,
+  "body": "rgb(240, 240, 240)"
+ },
+ "title": "rgb(76, 74, 72)",
+ "face": "rgb(240, 240, 240)",
+ "transcript": "rgb(255, 255, 255)",
+ "composer": "rgb(255, 255, 255)",
+ "status": "rgb(240, 240, 240)",
+ "composerRadius": "0px",
+ "font": "\"Segoe UI\", Selawik, \"Helvetica Neue\", Arial, \"Liberation Sans\", sans-serif",
+ "roundedLeft": 0,
+ "roundedSample": []
+}

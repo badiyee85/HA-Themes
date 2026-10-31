@@ -1,0 +1,38 @@
+{
+  "name": "winforms",
+  "label": "WinForms",
+  "description": "Plain native-Windows utility look: charcoal title bar, grey control face, white list and transcript panes, square corners",
+  "colors": {
+    "background": "#f0f0f0",
+    "foreground": "#000000",
+    "card": "#ffffff",
+    "cardForeground": "#000000",
+    "muted": "#e1e1e1",
+    "mutedForeground": "#6d6d6d",
+    "popover": "#f2f2f2",
+    "popoverForeground": "#000000",
+    "primary": "#0078d4",
+    "primaryForeground": "#ffffff",
+    "secondary": "#e1e1e1",
+    "secondaryForeground": "#000000",
+    "accent": "#cce8ff",
+    "accentForeground": "#000000",
+    "border": "#828790",
+    "input": "#7a7a7a",
+    "ring": "#0078d4",
+    "midground": "#0078d4",
+    "midgroundForeground": "#ffffff",
+    "composerRing": "#0078d4",
+    "destructive": "#c42b1c",
+    "destructiveForeground": "#ffffff",
+    "sidebarBackground": "#f0f0f0",
+    "sidebarBorder": "#828790",
+    "userBubble": "#f0f0f0",
+    "userBubbleBorder": "#d7d7d7"
+  },
+  "typography": {
+    "fontSans": "'Segoe UI', 'Selawik', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif",
+    "fontMono": "Consolas, 'Lucida Console', Menlo, 'DejaVu Sans Mono', monospace",
+    "letterSpacing": "0"
+  }
+}

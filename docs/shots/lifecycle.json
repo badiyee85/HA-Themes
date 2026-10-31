@@ -1,0 +1,17 @@
+{
+ "relaunch": {
+  "theme": "winforms",
+  "css": 15482,
+  "body": "rgb(240, 240, 240)"
+ },
+ "switchedAway": {
+  "theme": "nous",
+  "css": 0,
+  "body": "color(srgb 0.996235 0.996235 0.996235)"
+ },
+ "afterRemove": {
+  "theme": "nous",
+  "css": 0,
+  "body": "color(srgb 0.996235 0.996235 0.996235)"
+ }
+}

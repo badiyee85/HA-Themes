@@ -1,0 +1,19 @@
+# HA Themes for Hermes Desktop — a theme-only plugin (theme pack).
+# The Desktop half (desktop/plugin.js) registers each theme through the plugin SDK;
+# the Agent half (__init__.py) is inert so the Agent loader imports the package cleanly.
+name: ha-themes
+label: HA Themes
+version: "0.3.0"
+description: "Theme pack for Hermes Desktop: WinForms (plain native-Windows utility look; unofficial, not affiliated with Microsoft) and Badi Dark (deep charcoal, soft blue). Installing lists the themes; you pick one in Settings -> Appearance."
+author: "badiyee85"
+license: MIT
+homepage: "https://github.com/badiyee85/HA-Themes"
+tags: [desktop, themes, appearance]
+# Floor = the oldest Hermes whose Desktop has every hook the themes use (checked by
+# tools/test_theme.py against v0.22.2); real-app tests run on v0.22.5.
+requires_hermes: ">=0.22.2"
+provides_tools: []
+provides_hooks: []
+requires_env: []
+# No privileged host surfaces: nothing to consent to.
+capabilities: []

@@ -1,0 +1,29 @@
+# secrets
+.env*
+!.env.example
+*.pem
+*.key
+# deps / build / tool output
+node_modules/
+tools/node_modules
+test-results/
+playwright-report/
+shots/run-*/
+*.log
+__pycache__/
+*.pyc
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
+# scratch crops from tools/crop.py
+*.crop-*.png
+
+# python caches
+__pycache__/
+
+# local-only: internal release brief, harness links
+BADI-BRIEF.md
+tools/hermes-src
+tools/node_modules

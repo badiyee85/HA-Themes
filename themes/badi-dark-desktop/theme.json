@@ -1,0 +1,33 @@
+{
+  "name": "badi-dark-desktop",
+  "label": "Badi Dark (Desktop)",
+  "description": "Deep charcoal with a soft blue accent: the badi-dark skin, hand-tuned as a full Desktop theme",
+  "colors": {
+    "background": "#0f1419",
+    "foreground": "#c9d4e3",
+    "card": "#141b22",
+    "cardForeground": "#c9d4e3",
+    "muted": "#1a222c",
+    "mutedForeground": "#8a96a9",
+    "popover": "#161e27",
+    "popoverForeground": "#c9d4e3",
+    "primary": "#5b9dff",
+    "primaryForeground": "#0b0f14",
+    "secondary": "#1c2733",
+    "secondaryForeground": "#c9d4e3",
+    "accent": "#1a2636",
+    "accentForeground": "#dbe7ff",
+    "border": "#232d3a",
+    "input": "#1a222c",
+    "ring": "#5b9dff",
+    "midground": "#5b9dff",
+    "midgroundForeground": "#0b0f14",
+    "composerRing": "#5b9dff",
+    "destructive": "#f87171",
+    "destructiveForeground": "#0b0f14",
+    "sidebarBackground": "#0b0f14",
+    "sidebarBorder": "#232d3a",
+    "userBubble": "#16202c",
+    "userBubbleBorder": "#232d3a"
+  }
+}
